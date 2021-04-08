@@ -12,24 +12,24 @@ const nextBtn = document.getElementById('next');
 
 const songs = [
     {
-        name: 'jacinto-1',
+        name: 'vishwa-1',
         displayName: 'Electric Chill Machine',
         artist: 'Vishwa',
     },
     {
-        name: 'jacinto-2',
+        name: 'vishwa-2',
         displayName: 'Seven Nation Army (Remix',
         artist: 'Vishwa',
     },
     {
-        name: 'jacinto-3',
+        name: 'vishwa-3',
         displayName: 'Goodnight, Disco Queen',
         artist: 'Vishwa',
     },
     {
-        name: 'metric-1',
+        name: 'vishwa-4',
         displayName: 'Front Row (Remix)',
-        artist: 'Metric/Vishwa',
+        artist: 'Vishwa',
     },
 ];
 
